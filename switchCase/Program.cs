@@ -50,7 +50,7 @@ namespace switchCase
                 case 9:
                 case 10:
                 case 11:
-                    Console.WriteLine("Kış ayındasınız");
+                    Console.WriteLine("Sonbahar ayındasınız");
                     break;
                 default:
                     Console.WriteLine("Yanlış veri girişi");
